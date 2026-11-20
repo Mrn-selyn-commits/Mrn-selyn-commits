@@ -16,7 +16,7 @@
 
 ```r
 me <- list(
-  role       = "medical doctor who also speaks R",
+  role       = "reading cancer's source code",
   based_in   = "Kampala, Uganda",
   works_on   = c("cancer biology", "genomics", "epigenetics", "medical education"),
   debugging  = "why some cells stop following the code",
